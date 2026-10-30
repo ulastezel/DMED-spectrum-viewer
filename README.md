@@ -2,7 +2,7 @@
 
 A browser viewer for an in-silico LC-MS/MS library of DMED-derivatized lipid acids. It was built to help identify the biological origin of lipid residues in archaeological pottery.
 
-BIOMIG LAB, Institute of Environmental Sciences, Boğaziçi University.
+ARChaeometry Research Center, Boğaziçi University funded by BAP 25A04P4.
 
 ## What it does
 
